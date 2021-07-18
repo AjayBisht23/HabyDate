@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1014202248157",
+    "project_id": "dating-app-25717",
+    "storage_bucket": "dating-app-25717.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014202248157:android:9ba436d44c32dd281f2434",
+        "android_client_info": {
+          "package_name": "com.vervebot.dating"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014202248157-cggvqovvra2gn767uhrvd4c3ul0n9d8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh2bXKuX1gcTrpKBJ4IzZHEj7_j6ElfHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014202248157-cggvqovvra2gn767uhrvd4c3ul0n9d8q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1014202248157-givvhqfa3d7d9uuigmem2ek11ipocv02.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vervebot.dating"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
